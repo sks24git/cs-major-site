@@ -1,6 +1,6 @@
 ## Vitality — Team Falcons · 19.06 · 20:00 MSK · IEM Cologne Major 2026 · BO3
 
-**Opponent confirmed: Team Vitality, a heavy favourite @1.39. Misha holds Falcons +1.5 @1.62 (🟢). After the read, AI passes: there's no clean opponent-independent edge, and the value has drifted below our floor.**
+**Opponent confirmed: Team Vitality, a heavy favourite @1.39. Misha holds Falcons +1.5 @1.62 (🟢). AI took Falcons +1.5 @1.55 — but ON REQUEST and as a below-floor exception, at a reduced stake (₽1,500). There's no clean independent edge on the series.**
 
 ## The matchup
 
@@ -15,12 +15,12 @@ The real value here is on Misha's idea (**Falcons +1.5**: a BO3 favourite drops 
 2. **"Over 2.5 maps" fails the trigger.** The trigger was: tier-1 + a SWINGY matchup. Vitality is a heavy favourite (1.39), the match is lopsided → over @1.95 (below the 2.0 threshold) ≈ a fair price / near-zero EV (loses both on a Vitality 2:0 and on a Falcons 0:2 choke).
 3. **Vitality −1.5 (2:0) @2.30 is a strategy trap** (a favourite sweep = −EV: the favourite often drops a map), and against Falcons' firepower at that.
 
-Bottom line: **discipline = pass.** There's no market that's both above the floor, with a clean edge, and different from Misha's bet. AI holds fire and focuses on the landing G2 +1.5.
+Bottom line on discipline: there's no clean market (above floor + edge + different from Misha). So AI takes Falcons +1.5 **only as an on-request exception**, at a **reduced stake** — not the engine's default recommendation.
 
 ## Bets
 
 - **Misha:** Falcons +1.5 maps @1.62 — 🟢. The idea is right (Falcons take at least one map off the favourite), odds locked above the floor. ✅
-- **AI:** **Pass on this series.** Optional (if a position is wanted): agree with Misha on Falcons +1.5, but it's 1.55 now — below the floor. No clean independent edge.
+- **AI:** **Falcons +1.5 @1.55 — 🟢, ₽1,500 stake (below-floor exception, on request).** Agreeing with Misha's idea: Falcons' firepower (NiKo+m0NESY) rarely allows a clean 0:2 against the favourite. Thin sub-floor value — hence the half stake.
 
 ---
 _Detailed read: cs-major-analyze-slate workflow. Opponent confirmed via the bookmaker line (Vitality 1.39). AI's call — a disciplined pass._

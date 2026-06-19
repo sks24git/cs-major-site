@@ -52,5 +52,22 @@
       "ru": "Ставка AI @1.80 (ориентировочный — сверить с линией БК до старта). Главный value по стратегии: фаворит в BO3 регулярно отдаёт одну карту. У Spirit новый IGL tN1R (химия под вопросом), а G2 на дуэлях и AWP SunPayus способны снять карту даже проигрывая серию. Другой угол, чем у Миши: он завязан на точный 2:1, AI заходит на любую карту G2.",
       "en": "AI @1.80 (indicative — verify vs the line before tip-off). Top value per strategy: a BO3 favourite regularly drops a map. Spirit have a new IGL (tN1R, chemistry in question); G2 can steal a map on duels and SunPayus's AWP even while losing the series. A different angle from Misha, who needs an exact 2:1 — AI cashes on any G2 map."
     }
+  },
+  {
+    "id": 4,
+    "date": "2026-06-19",
+    "matchId": "falcons-tbc",
+    "type": "Фкарт",
+    "odds": 1.55,
+    "tier": "green",
+    "stake": 1500,
+    "side": "AI",
+    "status": "pending",
+    "match": { "ru": "Vitality — Team Falcons", "en": "Vitality — Team Falcons" },
+    "bet": { "ru": "Falcons +1.5 по картам", "en": "Falcons +1.5 maps" },
+    "note": {
+      "ru": "Взято ПО ЗАПРОСУ как исключение: линия @1.55 ниже пола 1.60, поэтому размер урезан вдвое (1500₽ вместо 3000₽). Согласие с идеей Миши — огневая мощь Falcons (NiKo+m0NESY) редко даёт сухую 0:2 против фаворита Vitality. Тонкий value под полом, не дефолтная рекомендация.",
+      "en": "Taken ON REQUEST as an exception: the line @1.55 is below the 1.60 floor, so the stake is halved (₽1,500 vs ₽3,000). Agreeing with Misha's idea — Falcons' firepower (NiKo+m0NESY) rarely allows a clean 0:2 against favourite Vitality. Thin sub-floor value, not the default recommendation."
+    }
   }
 ]
