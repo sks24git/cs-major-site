@@ -9,21 +9,21 @@
     "stage": { "ru": "IEM Cologne Major 2026 · BO3", "en": "IEM Cologne Major 2026 · BO3" },
     "venue": { "ru": "Lanxess Arena, Кёльн", "en": "Lanxess Arena, Cologne" },
     "lede": {
-      "ru": "G2 (MATYS, HeavyGod, NertZ, hUNter, SunPayus) против Spirit (magixx, tN1R, sh1ro, donk, zont1x). Миша ставит на победу Spirit 2:1 по картам @3.10.",
-      "en": "G2 (MATYS, HeavyGod, NertZ, hUNter, SunPayus) vs Spirit (magixx, tN1R, sh1ro, donk, zont1x). Misha backs Spirit to win 2:1 on maps @3.10."
+      "ru": "🔴 LIVE: G2 взяли карту 1 (13:9) и ведут 1:0. Ставка AI «G2 +1.5» фактически зафиксирована; ставка Миши «Spirit 2:1» жива, но Spirit нужно брать обе оставшиеся карты.",
+      "en": "🔴 LIVE: G2 took map 1 (13:9) and lead 1:0. AI's 'G2 +1.5' is effectively locked; Misha's 'Spirit 2:1' is alive but Spirit must now win both remaining maps."
     }
   },
   {
     "id": "falcons-tbc",
     "date": "2026-06-19",
     "timeMsk": "20:00",
-    "cc": ["falcons", "tbc"],
+    "cc": ["vitality", "falcons"],
     "result": null,
-    "title": { "ru": "Team Falcons — соперник уточняется", "en": "Team Falcons — opponent TBC" },
-    "stage": { "ru": "IEM Cologne Major 2026 · BO3", "en": "IEM Cologne Major 2026 · BO3" },
+    "title": { "ru": "Vitality — Team Falcons", "en": "Vitality — Team Falcons" },
+    "stage": { "ru": "IEM Cologne Major 2026 · плей-офф · BO3", "en": "IEM Cologne Major 2026 · Playoffs · BO3" },
     "lede": {
-      "ru": "Team Falcons (NiKo, m0NESY, TeSeS, kyousuke, karrigan; тренер zonic) на Мейджоре. Соперник и точное время уточняются. Миша ставит Falcons +1.5 по картам @1.62.",
-      "en": "Team Falcons (NiKo, m0NESY, TeSeS, kyousuke, karrigan; coach zonic) at the Major. Opponent and exact time to be confirmed. Misha backs Falcons +1.5 maps @1.62."
+      "ru": "Соперник подтверждён: Team Vitality (ZywOo, apEX, ropz, flameZ, mezii) — тяжёлый фаворит @1.39 против Falcons (NiKo, m0NESY, TeSeS, kyousuke, karrigan) @3.15. Сегодня 20:00 МСК. Миша держит Falcons +1.5 @1.62.",
+      "en": "Opponent confirmed: Team Vitality (ZywOo, apEX, ropz, flameZ, mezii) — a heavy favourite @1.39 against Falcons (NiKo, m0NESY, TeSeS, kyousuke, karrigan) @3.15. Today 20:00 MSK. Misha holds Falcons +1.5 @1.62."
     }
   }
 ]

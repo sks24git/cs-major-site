@@ -1,5 +1,29 @@
 [
   {
+    "time": "19.06 · 18:30",
+    "tag": "result",
+    "text": {
+      "ru": "🔴 LIVE G2 — Spirit: G2 взяли карту 1 (13:9) и ведут 1:0. Ставка AI «G2 +1.5» фактически зафиксирована (всухую 0:2 уже невозможно). Ставка Миши «Spirit 2:1» жива, но Spirit теперь должны брать обе оставшиеся карты.",
+      "en": "🔴 LIVE G2 — Spirit: G2 took map 1 (13:9) and lead 1:0. AI's 'G2 +1.5' is effectively locked (a 0:2 sweep is now impossible). Misha's 'Spirit 2:1' is alive, but Spirit must now win both remaining maps."
+    }
+  },
+  {
+    "time": "19.06 · 18:25",
+    "tag": "lineup",
+    "text": {
+      "ru": "✅ Соперник Falcons подтверждён: Team Vitality (ZywOo, apEX, ropz, flameZ, mezii), сегодня 20:00 МСК. Vitality — тяжёлый фаворит @1.39, Falcons @3.15. Фора: Falcons +1.5 @1.55, Vitality −1.5 (2:0) @2.30.",
+      "en": "✅ Falcons' opponent confirmed: Team Vitality (ZywOo, apEX, ropz, flameZ, mezii), today 20:00 MSK. Vitality a heavy favourite @1.39, Falcons @3.15. Handicap: Falcons +1.5 @1.55, Vitality −1.5 (2:0) @2.30."
+    }
+  },
+  {
+    "time": "19.06 · 18:28",
+    "tag": "misha",
+    "text": {
+      "ru": "🤖 AI по Vitality — Falcons: ПАС. Value на стороне идеи Миши (Falcons +1.5), но линия уехала на 1.55 — под наш пол 1.60. «ТБ карт >2.5» не проходит триггер (Vitality тяжёлый фаворит, матч не качельный), а Vitality −1.5 = ловушка по стратегии. Дисциплина важнее объёма — фокус на заходящем G2 +1.5.",
+      "en": "🤖 AI on Vitality — Falcons: PASS. The value is on Misha's idea (Falcons +1.5), but the line drifted to 1.55 — below our 1.60 floor. 'Over 2.5 maps' fails the trigger (Vitality a heavy favourite, not a swingy match), and Vitality −1.5 is a strategy trap. Discipline over volume — focus on the landing G2 +1.5."
+    }
+  },
+  {
     "time": "19.06 · 17:45",
     "tag": "insight",
     "text": {

@@ -1,32 +1,26 @@
-## Team Falcons — opponent TBC · 19.06 · IEM Cologne Major 2026 · BO3
+## Vitality — Team Falcons · 19.06 · 20:00 MSK · IEM Cologne Major 2026 · BO3
 
-**Misha takes Falcons +1.5 @1.62 (🟢). AI ran a detailed analysis and deliberately HOLDS: the "over 2.5 maps" angle blind is near-zero EV. Waiting for the opponent.**
+**Opponent confirmed: Team Vitality, a heavy favourite @1.39. Misha holds Falcons +1.5 @1.62 (🟢). After the read, AI passes: there's no clean opponent-independent edge, and the value has drifted below our floor.**
 
-## Falcons' betting profile
+## The matchup
 
-Falcons (NiKo, m0NESY, TeSeS, kyousuke, karrigan; coach zonic) — a classic **high-variance super-roster**:
-- **Rarely sweep cleanly 2:0** — huge firepower, but in-series discipline wavers; they drop maps even to weaker teams.
-- **Historically choke in deciders/finals in 2026** — a minus for a straight ML and for −1.5.
-- Both "weak" outcomes (an undercooked series and a loss to a weaker side) lead to a 3rd map → their BO3s go the distance more than the tier-1 median.
+- **Vitality** (ZywOo, apEX, ropz, flameZ, mezii) — the elite, most disciplined team in the world, a heavy favourite **@1.39**.
+- **Falcons** (NiKo, m0NESY, TeSeS, kyousuke, karrigan) — a high-variance super-roster @3.15: top-tier firepower, but fresh karrigan chemistry and a 2026 choke pattern.
+- Line: map handicap **Falcons +1.5 @1.55**, Vitality −1.5 (2:0 sweep) @2.30; maps total **Over(3 maps) 1.95 / Under(2:0) 1.75**.
 
-| BO3 scenario | Series | Frequency (2026 pattern) |
-|---|---|---|
-| Clean 2:0 | 2 maps | ~30–35% |
-| To map 3 (2:1 / 1:2) | 3 maps | ~45–50% |
-| Choke/0:2 exit | 2 maps | ~20–25% |
+## Why AI passes (instead of firing just to be in)
 
-## Why AI holds (instead of firing blind)
+The real value here is on Misha's idea (**Falcons +1.5**: a BO3 favourite drops a map, Falcons have huge firepower and are rarely cleanly swept). But:
+1. **The line drifted below our floor.** Falcons +1.5 is now **@1.55 < 1.60** (the strategy floor). Misha took @1.62 in time — fine; AI won't enter a standalone at 1.55.
+2. **"Over 2.5 maps" fails the trigger.** The trigger was: tier-1 + a SWINGY matchup. Vitality is a heavy favourite (1.39), the match is lopsided → over @1.95 (below the 2.0 threshold) ≈ a fair price / near-zero EV (loses both on a Vitality 2:0 and on a Falcons 0:2 choke).
+3. **Vitality −1.5 (2:0) @2.30 is a strategy trap** (a favourite sweep = −EV: the favourite often drops a map), and against Falcons' firepower at that.
 
-The **"over 2.5 maps"** market (series goes to map 3) breaks from BOTH sides without knowing the opponent — the **double-edge paradox**:
-- vs a **weak** opponent Falcons sweep 2:0 → over loses;
-- vs a **top** opponent Falcons get swept 0:2 per the choke pattern → over loses.
-
-Base P(3 maps) across all tiers ≈ **47%** ≈ a fair line @2.10 → **no edge without the opponent** (near-zero EV). That directly violates the strategy rule "don't bet opponent-dependent markets blind". **Discipline over volume.**
+Bottom line: **discipline = pass.** There's no market that's both above the floor, with a clean edge, and different from Misha's bet. AI holds fire and focuses on the landing G2 +1.5.
 
 ## Bets
 
-- **Misha:** Falcons +1.5 maps @1.62 — 🟢. Opponent-agnostic-safe (cashes vs anyone bar a 0:2 sweep). Consistent with strategy — ✅ agree on logic.
-- **AI:** **HOLD (awaiting opponent).** Entry trigger: a confirmed competitive tier-1 opponent + a swingy veto → P(3 maps) 52–55%, odds ≥2.0 → then **over 2.5 maps, 🟡 small stake**. If the opponent is clearly weaker → the angle flips to Falcons −1.5.
+- **Misha:** Falcons +1.5 maps @1.62 — 🟢. The idea is right (Falcons take at least one map off the favourite), odds locked above the floor. ✅
+- **AI:** **Pass on this series.** Optional (if a position is wanted): agree with Misha on Falcons +1.5, but it's 1.55 now — below the floor. No clean independent edge.
 
 ---
-_Detailed read: cs-major-analyze-slate workflow (high-effort + adversarial). Opponent/veto TBC — the card will update._
+_Detailed read: cs-major-analyze-slate workflow. Opponent confirmed via the bookmaker line (Vitality 1.39). AI's call — a disciplined pass._

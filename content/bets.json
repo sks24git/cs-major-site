@@ -27,11 +27,11 @@
     "tier": "green",
     "side": "Миша",
     "status": "pending",
-    "match": { "ru": "Team Falcons — соперник уточняется", "en": "Team Falcons — opponent TBC" },
+    "match": { "ru": "Vitality — Team Falcons", "en": "Vitality — Team Falcons" },
     "bet": { "ru": "Falcons +1.5 по картам", "en": "Falcons +1.5 maps" },
     "note": {
-      "ru": "Ставка Миши @1.62: Falcons берут хотя бы одну карту в BO3 (фора +1.5).",
-      "en": "Misha @1.62: Falcons to take at least one map in the BO3 (+1.5 handicap)."
+      "ru": "Ставка Миши @1.62: Falcons берут хотя бы одну карту в BO3. Соперник подтверждён — Vitality (тяжёлый фаворит). Линия по +1.5 уехала на 1.55, но кэф Миши зафиксирован 1.62 — ок, выше пола.",
+      "en": "Misha @1.62: Falcons to take at least one map in the BO3. Opponent confirmed — Vitality (heavy favourite). The +1.5 line has drifted to 1.55, but Misha's odds are locked at 1.62 — fine, above the floor."
     }
   },
   {

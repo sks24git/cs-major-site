@@ -2,6 +2,10 @@
 
 **The series almost certainly goes to three maps. Misha takes Spirit 2:1 @3.10 (🔴 correct score); AI plays it safer — G2 +1.5 @1.80 (🟢), value confirmed by an adversarial check.**
 
+> **🔴 LIVE (map 2 in progress):** G2 took map 1 — **13:9**, lead **1:0**. What it means for the bets:
+> - **AI's "G2 +1.5" is effectively locked** — G2 already have a map, a 0:2 sweep is impossible (settles at series end).
+> - **Misha's "Spirit 2:1" is alive but narrow** — Spirit must now win BOTH remaining maps (2 and 3), or the exact 2:1 won't land.
+
 ## Map pool and likely veto
 
 Active pool: Ancient, Anubis, Dust2, Inferno, Mirage, Nuke, Train.
