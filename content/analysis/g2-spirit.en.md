@@ -1,29 +1,39 @@
 ## G2 — Spirit · 19.06 · IEM Cologne Major 2026 · BO3
 
-**A BO3 series at the Major. Misha backs Spirit to win 2:1 on maps @3.10 — favoured, but "the long way, in three maps".**
+**The series almost certainly goes to three maps. Misha takes Spirit 2:1 @3.10 (🔴 correct score); AI plays it safer — G2 +1.5 @1.80 (🟢), value confirmed by an adversarial check.**
 
-## Key points
+## Map pool and likely veto
 
-- **Lineups (from the HLTV match card).**
-  - **G2:** MATYS · HeavyGod · NertZ · hUNter · SunPayus
-  - **Spirit:** magixx · tN1R · sh1ro · donk · zont1x
-- **Format:** BO3 (first to two maps). A +1.5 map handicap = a team takes at least one map.
-- **Falcons' opponent and exact timings** for Misha's second match are being confirmed — cards will update.
+Active pool: Ancient, Anubis, Dust2, Inferno, Mirage, Nuke, Train.
+- **Spirit** are strong on **Train / Nuke / Mirage** — a structured, donk-centric side: default T setups + CT holds where donk and sh1ro win rounds individually.
+- **G2** — a raw rebuilt roster with little sample; comfort picks for the individuals are **Mirage / Inferno** (SunPayus as the AWP anchor on closed CT maps). Weaker on the structural **Nuke / Train**.
+- Likely decider — **Inferno / Anubis**: a slight lean to Spirit (system beats raw individual skill). ⚠️ The exact veto depends on fresh vetostats — this is a projection.
 
-## Misha's pick
+## Sides and totals
 
-- **Spirit 2:1 on maps (correct map score 1:2) @3.10** — 🔴 by type (correct score = lottery). Logic: Spirit have the firepower edge (donk/sh1ro), but G2 can steal one map on their own pick — hence betting the 2:1 scoreline rather than a 2:0 sweep.
+Nuke / Train / Anubis are CT-sided; Mirage / Inferno balanced; Dust2 open. **Map round totals — 🔴 by type** (high variance), we don't play them.
 
-## Team read (from the dossiers)
+## Form and chemistry
 
-- **Spirit** — top class through donk (lead fragger) and sh1ro (elite AWP). But this version runs a **new IGL, tN1R** — mid-round chemistry is in question. In form they sweep 2:0, but when shaky they go the distance and can wobble in the closing rounds.
-- **G2** — a rebuilt young core (MATYS/HeavyGod/NertZ) plus veterans hUNter and SunPayus (the AWP foundation). High ceiling, high variance: bright duel rounds but raw structure. The profile of a team that **rarely sweeps cleanly** and often steals a map even off a favourite.
+- **Spirit:** new IGL **tN1R** = transition risk (new mid-rounds, roles) → lower ceiling early, but the donk + sh1ro + magixx + zont1x core keeps the firepower. Still a top-3 level.
+- **G2:** high individual ceiling (MATYS/HeavyGod/NertZ) + stabilisers hUNter/SunPayus, but **low cohesion**: they sag in clutches and on the decider against Spirit's structure.
 
-## AI's pick
+## Score scenario (projection)
 
-- **G2 +1.5 maps @1.80** (🟢, indicative — verify vs the line). Top value per strategy (§2): a BO3 favourite regularly drops a map, and G2 can steal one on duels / SunPayus's AWP even while losing the series. A **different angle** from Misha: he needs an exact 2:1, AI cashes on any G2 map (1:2, 2:1, or a G2 2:0).
-- _Secondary scenario (not staked, to avoid doubling exposure): over 2.5 maps — the series going to a decider._
+| Outcome | Probability |
+|---|---|
+| Spirit 2:1 | ~35–40% |
+| G2 2:1 | ~25–30% |
+| Spirit 2:0 | ~20–25% |
+| G2 2:0 | ~10–15% |
+
+→ **The series almost certainly goes to 3 maps**; both teams very likely take at least one.
+
+## Bets
+
+- **Misha:** Spirit 2:1 on maps @3.10 — 🔴 (correct score by type). Likely scenario (~35–40%), but the 32% implied leaves no cushion for variance.
+- **AI:** **G2 +1.5 maps @1.80 — 🟢 (MAIN).** Cashes on any 2:1: P(any 2:1) ~60–65% vs a 55.6% break-even → real +value. Two forces push the series to 3 maps: G2's rawness (a 0:2 is unlikely) + Spirit's transitional IGL (hard to sweep 2:0). Same idea as Misha's, but safer. _Adversarial check: the bet survives refutation, we keep it._
+- Alternative (opt.): Spirit ML @~1.55–1.65 🟢 — less value/reliability (tied to a decider coin-flip). Correct score / map & round totals / pistols — 🔴, pass.
 
 ---
-
-_Full map veto, side reads and the bookmaker line will be added closer to tip-off (cs-major-analyze)._
+_Detailed read: cs-major-analyze-slate workflow (high-effort + adversarial). Veto is a projection — verify before tip-off._
