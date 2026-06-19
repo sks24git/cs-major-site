@@ -33,5 +33,24 @@
       "ru": "Ставка Миши @1.62: Falcons берут хотя бы одну карту в BO3 (фора +1.5).",
       "en": "Misha @1.62: Falcons to take at least one map in the BO3 (+1.5 handicap)."
     }
+  },
+  {
+    "id": 3,
+    "date": "2026-06-19",
+    "matchId": "g2-spirit",
+    "type": "Фкарт",
+    "odds": 1.8,
+    "tier": "green",
+    "side": "AI",
+    "status": "pending",
+    "match": { "ru": "G2 — Spirit", "en": "G2 — Spirit" },
+    "bet": {
+      "ru": "G2 +1.5 по картам (берут хотя бы одну карту)",
+      "en": "G2 +1.5 maps (to take at least one map)"
+    },
+    "note": {
+      "ru": "Ставка AI @1.80 (ориентировочный — сверить с линией БК до старта). Главный value по стратегии: фаворит в BO3 регулярно отдаёт одну карту. У Spirit новый IGL tN1R (химия под вопросом), а G2 на дуэлях и AWP SunPayus способны снять карту даже проигрывая серию. Другой угол, чем у Миши: он завязан на точный 2:1, AI заходит на любую карту G2.",
+      "en": "AI @1.80 (indicative — verify vs the line before tip-off). Top value per strategy: a BO3 favourite regularly drops a map. Spirit have a new IGL (tN1R, chemistry in question); G2 can steal a map on duels and SunPayus's AWP even while losing the series. A different angle from Misha, who needs an exact 2:1 — AI cashes on any G2 map."
+    }
   }
 ]

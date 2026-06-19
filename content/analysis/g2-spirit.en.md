@@ -14,10 +14,16 @@
 
 - **Spirit 2:1 on maps (correct map score 1:2) @3.10** — 🔴 by type (correct score = lottery). Logic: Spirit have the firepower edge (donk/sh1ro), but G2 can steal one map on their own pick — hence betting the 2:1 scoreline rather than a 2:0 sweep.
 
+## Team read (from the dossiers)
+
+- **Spirit** — top class through donk (lead fragger) and sh1ro (elite AWP). But this version runs a **new IGL, tN1R** — mid-round chemistry is in question. In form they sweep 2:0, but when shaky they go the distance and can wobble in the closing rounds.
+- **G2** — a rebuilt young core (MATYS/HeavyGod/NertZ) plus veterans hUNter and SunPayus (the AWP foundation). High ceiling, high variance: bright duel rounds but raw structure. The profile of a team that **rarely sweeps cleanly** and often steals a map even off a favourite.
+
 ## AI's pick
 
-- _Coming after team and strategy research (map picks/bans, form, H2H, the bookmaker line). Pending for now._
+- **G2 +1.5 maps @1.80** (🟢, indicative — verify vs the line). Top value per strategy (§2): a BO3 favourite regularly drops a map, and G2 can steal one on duels / SunPayus's AWP even while losing the series. A **different angle** from Misha: he needs an exact 2:1, AI cashes on any G2 map (1:2, 2:1, or a G2 2:0).
+- _Secondary scenario (not staked, to avoid doubling exposure): over 2.5 maps — the series going to a decider._
 
 ---
 
-_This is a starter stub. The full pre-match (form, map pool, H2H, models, the line) will be added via the cs-major-analyze skill._
+_Full map veto, side reads and the bookmaker line will be added closer to tip-off (cs-major-analyze)._
