@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "date": "2026-06-19",
+    "matchId": "g2-spirit",
+    "type": "ТС",
+    "odds": 3.1,
+    "tier": "red",
+    "side": "Миша",
+    "status": "pending",
+    "match": { "ru": "G2 — Spirit", "en": "G2 — Spirit" },
+    "bet": {
+      "ru": "Spirit победа 2:1 по картам (точный счёт 1:2)",
+      "en": "Spirit to win 2:1 on maps (correct map score 1:2)"
+    },
+    "note": {
+      "ru": "Ставка Миши @3.10. Spirit фаворит серии, но через все три карты — отсюда повышенный кэф. По типу «точный счёт» = 🔴 (лотерея).",
+      "en": "Misha's pick @3.10. Spirit favoured but via all three maps — hence the bigger odds. As a correct-score type it is 🔴 (lottery)."
+    }
+  },
+  {
+    "id": 2,
+    "date": "2026-06-19",
+    "matchId": "falcons-tbc",
+    "type": "Фкарт",
+    "odds": 1.62,
+    "tier": "green",
+    "side": "Миша",
+    "status": "pending",
+    "match": { "ru": "Team Falcons — соперник уточняется", "en": "Team Falcons — opponent TBC" },
+    "bet": { "ru": "Falcons +1.5 по картам", "en": "Falcons +1.5 maps" },
+    "note": {
+      "ru": "Ставка Миши @1.62: Falcons берут хотя бы одну карту в BO3 (фора +1.5).",
+      "en": "Misha @1.62: Falcons to take at least one map in the BO3 (+1.5 handicap)."
+    }
+  }
+]

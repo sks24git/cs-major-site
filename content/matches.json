@@ -1,0 +1,29 @@
+[
+  {
+    "id": "g2-spirit",
+    "date": "2026-06-19",
+    "timeMsk": "16:00",
+    "cc": ["g2", "spirit"],
+    "result": null,
+    "title": { "ru": "G2 — Spirit", "en": "G2 — Spirit" },
+    "stage": { "ru": "IEM Cologne Major 2026 · BO3", "en": "IEM Cologne Major 2026 · BO3" },
+    "venue": { "ru": "Lanxess Arena, Кёльн", "en": "Lanxess Arena, Cologne" },
+    "lede": {
+      "ru": "G2 (MATYS, HeavyGod, NertZ, hUNter, SunPayus) против Spirit (magixx, tN1R, sh1ro, donk, zont1x). Миша ставит на победу Spirit 2:1 по картам @3.10.",
+      "en": "G2 (MATYS, HeavyGod, NertZ, hUNter, SunPayus) vs Spirit (magixx, tN1R, sh1ro, donk, zont1x). Misha backs Spirit to win 2:1 on maps @3.10."
+    }
+  },
+  {
+    "id": "falcons-tbc",
+    "date": "2026-06-19",
+    "timeMsk": "20:00",
+    "cc": ["falcons", "tbc"],
+    "result": null,
+    "title": { "ru": "Team Falcons — соперник уточняется", "en": "Team Falcons — opponent TBC" },
+    "stage": { "ru": "IEM Cologne Major 2026 · BO3", "en": "IEM Cologne Major 2026 · BO3" },
+    "lede": {
+      "ru": "Матч Team Falcons на Мейджоре. Соперник и точное время уточняются. Миша ставит Falcons +1.5 по картам @1.62.",
+      "en": "Team Falcons' Major match. Opponent and exact time to be confirmed. Misha backs Falcons +1.5 maps @1.62."
+    }
+  }
+]
